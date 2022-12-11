@@ -1,4 +1,4 @@
-#   LATIHAN PRAKTIKUM 8 TANTANG OOP PADA PYTHON
+#   LATIHAN PRAKTIKUM 8 TENTANG OOP PADA PYTHON
 
 #   ("Nama         :   Midun Hakiki")
 #   ("NIM          :   312210583")
